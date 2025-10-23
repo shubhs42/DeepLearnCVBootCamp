@@ -1,2 +1,2 @@
 # DeepLearnCVBootCamp
-Fisrt experimental
+First experimental
